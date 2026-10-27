@@ -67,14 +67,6 @@
 
 ---
 
-<h2>📈 Contribution Activity</h2>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/2563eb/ojaskaushik" alt="Ojas GitHub Contribution Chart" width="95%" />
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">

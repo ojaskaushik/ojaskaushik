@@ -2,7 +2,7 @@
 
 Second-Year Computer Science Student at the University of Toronto
 
-
+[![Views](https://komarev.com/ghpvc/?username=itsmekxdihaa&label=Views&color=0a3cff&style=flat)](https://itsmekxdihaa.github.io)
 
 ## 🌐 Find Me Online
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ojas.kk)

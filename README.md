@@ -1,3 +1,3 @@
-# Hi, I'm Ojas 👋
+# Hey, I’m Ojas 🤩
 
-🎓 2nd Yr Computer Science Student at the University of Toronto
+Second-Year Computer Science Student at the University of Toronto

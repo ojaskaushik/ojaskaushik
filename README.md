@@ -61,7 +61,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ojaskaushik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats" />
 
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojaskaushik&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+-->
 
 </div>
 

@@ -1,6 +1,21 @@
+<div id="greetings" align="center">
+<h1>
+  Hey, I'm Ojas 🤩!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<h2>Second-Year Computer Science Student at the University of Toronto </h2>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/tahmeed-rahman-9a3966322/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<!--
 # Hey, I’m Ojas 🤩
 
 Second-Year Computer Science Student at the University of Toronto
+-->
 
 [![Views](https://komarev.com/ghpvc/?username=itsmekxdihaa&label=Views&color=0a3cff&style=flat)](https://itsmekxdihaa.github.io)
 

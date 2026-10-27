@@ -67,12 +67,10 @@
 
 ---
 
-## 📈 Contribution Activity
+<h2>📈 Contribution Activity</h2>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ojaskaushik&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution Graph" />
-
+  <img src="https://ghchart.rshah.org/2563eb/ojaskaushik" alt="Ojas GitHub Contribution Chart" width="95%" />
 </div>
 
 ---
